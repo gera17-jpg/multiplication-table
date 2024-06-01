@@ -1,0 +1,10 @@
+
+td,th{
+  border: solid black 1px;
+  text-align: center;
+  
+}
+
+.color{
+  background-color: rgb(16, 233, 16);
+}
